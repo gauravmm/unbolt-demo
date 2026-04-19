@@ -1,0 +1,9 @@
+exclude: []
+force_leaf:
+  labels: [608ZZ, 8mm_Rigid_Flange_Coupling_v2_f3d__v1]
+  paths: []
+name_rules:
+- {pattern: ' ', replace: _}
+- {pattern: '[_ ]?v\d+$', replace: ''}
+- {pattern: ':\d+$', replace: ''}
+source: Pedal v*.step

@@ -1,0 +1,52 @@
+{
+  "bounding_box": {
+    "max": [
+      135.0,
+      76.0,
+      -124.0
+    ],
+    "min": [
+      21.0,
+      44.0,
+      -156.0
+    ]
+  },
+  "center_of_mass": [
+    78.5986,
+    60.0,
+    -140.0
+  ],
+  "edge_count": 4081,
+  "export_pose": {
+    "origin_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "x_axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "y_axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "z_axis": [
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "face_count": 2023,
+  "geometry_hash": "unbolt-v0:c8102bc7e70061e38aeedf0762c0625f009573a66222034b5289103900b49ae3",
+  "normalized_name": "pedal_barrel",
+  "principal_moments_mm5": [
+    10728124.811,
+    74369898.382,
+    74369898.382
+  ],
+  "raw_name": "Pedal_Barrel",
+  "volume_mm3": 75226.867
+}

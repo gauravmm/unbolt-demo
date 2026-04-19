@@ -1,0 +1,52 @@
+{
+  "bounding_box": {
+    "max": [
+      13.0,
+      76.0,
+      -124.0
+    ],
+    "min": [
+      -0.0,
+      44.0,
+      -156.0
+    ]
+  },
+  "center_of_mass": [
+    4.1471,
+    60.023,
+    -140.0229
+  ],
+  "edge_count": 168,
+  "export_pose": {
+    "origin_mm": [
+      0.0,
+      60.0,
+      -140.0
+    ],
+    "x_axis": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "y_axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "z_axis": [
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "face_count": 77,
+  "geometry_hash": "unbolt-v0:e072efd04dcb1d4b7312b7c69fc34156656cdf4f05fd0725c531dbb909ea3dd9",
+  "normalized_name": "8mm_rigid_flange_coupling_v2_f3d",
+  "principal_moments_mm5": [
+    222083.27,
+    222088.162,
+    344372.024
+  ],
+  "raw_name": "8mm_Rigid_Flange_Coupling_v2_f3d__v1",
+  "volume_mm3": 3579.796
+}

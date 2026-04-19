@@ -1,0 +1,52 @@
+{
+  "bounding_box": {
+    "max": [
+      20.0,
+      71.0,
+      -129.0
+    ],
+    "min": [
+      13.0,
+      49.0,
+      -151.0
+    ]
+  },
+  "center_of_mass": [
+    16.5,
+    60.0,
+    -140.0
+  ],
+  "edge_count": 53,
+  "export_pose": {
+    "origin_mm": [
+      13.0,
+      60.0,
+      -140.000000000001
+    ],
+    "x_axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "y_axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "z_axis": [
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "face_count": 35,
+  "geometry_hash": "unbolt-v0:aede1a2d1ab3e53bddabe2a1281c48c74e0428a0e2742b676fa1648eb1708369",
+  "normalized_name": "608zz",
+  "principal_moments_mm5": [
+    61216.339,
+    61216.339,
+    110473.868
+  ],
+  "raw_name": "608ZZ",
+  "volume_mm3": 1523.885
+}

@@ -1,0 +1,52 @@
+{
+  "bounding_box": {
+    "max": [
+      145.0,
+      64.2,
+      -135.8
+    ],
+    "min": [
+      -5.0,
+      55.8,
+      -144.2
+    ]
+  },
+  "center_of_mass": [
+    70.0,
+    60.0,
+    -140.0
+  ],
+  "edge_count": 3,
+  "export_pose": {
+    "origin_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "x_axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "y_axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "z_axis": [
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "face_count": 3,
+  "geometry_hash": "unbolt-v0:8cb041ed2b727e37e8520e5ae032bd890882623b4c3a23df542ef60a57f2dd7e",
+  "normalized_name": "steel_shaft",
+  "principal_moments_mm5": [
+    73317.61,
+    15622885.357,
+    15622885.357
+  ],
+  "raw_name": "Steel_Shaft",
+  "volume_mm3": 8312.654
+}

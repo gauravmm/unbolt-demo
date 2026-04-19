@@ -1,0 +1,52 @@
+{
+  "bounding_box": {
+    "max": [
+      27.0,
+      67.0,
+      -133.0
+    ],
+    "min": [
+      20.0,
+      53.0,
+      -147.0
+    ]
+  },
+  "center_of_mass": [
+    23.5,
+    60.1656,
+    -140.0
+  ],
+  "edge_count": 15,
+  "export_pose": {
+    "origin_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "x_axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "y_axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "z_axis": [
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "face_count": 5,
+  "geometry_hash": "unbolt-v0:6419d632a786d1a9b937821e398710aba2d88e06f335a9229d64cc60e387ebc1",
+  "normalized_name": "shaft_retainer",
+  "principal_moments_mm5": [
+    14073.467,
+    14731.896,
+    22902.764
+  ],
+  "raw_name": "Shaft_Retainer",
+  "volume_mm3": 704.285
+}

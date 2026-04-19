@@ -1,0 +1,52 @@
+{
+  "bounding_box": {
+    "max": [
+      136.0,
+      66.2,
+      -133.8
+    ],
+    "min": [
+      133.0,
+      53.8,
+      -146.2
+    ]
+  },
+  "center_of_mass": [
+    134.5,
+    60.0,
+    -140.0
+  ],
+  "edge_count": 6,
+  "export_pose": {
+    "origin_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "x_axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "y_axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "z_axis": [
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "face_count": 4,
+  "geometry_hash": "unbolt-v0:5630721028cc9d6dbc80eed0791535e3e355cd87af57aa2a0b77d524e2f85f93",
+  "normalized_name": "bearing_separator",
+  "principal_moments_mm5": [
+    2817.074,
+    2817.074,
+    5352.112
+  ],
+  "raw_name": "Bearing_Separator",
+  "volume_mm3": 188.024
+}
