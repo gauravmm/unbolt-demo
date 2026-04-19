@@ -1,0 +1,52 @@
+{
+  "bounding_box": {
+    "max": [
+      41.0,
+      32.1997,
+      -147.3766
+    ],
+    "min": [
+      -4.0,
+      23.6997,
+      -155.8766
+    ]
+  },
+  "center_of_mass": [
+    14.8683,
+    28.5676,
+    -150.8723
+  ],
+  "edge_count": 1856,
+  "export_pose": {
+    "origin_mm": [
+      18.5,
+      27.949739079457,
+      -151.626642332696
+    ],
+    "x_axis": [
+      0.0,
+      -0.422618261741,
+      0.906307787037
+    ],
+    "y_axis": [
+      0.0,
+      0.906307787037,
+      0.422618261741
+    ],
+    "z_axis": [
+      -1.0,
+      0.0,
+      0.0
+    ]
+  },
+  "face_count": 627,
+  "geometry_hash": "unbolt-v0:7106e3dffc88b7d96df614c0e33c7841e218038c4b4df595e08efd870986459f",
+  "normalized_name": "91290a196_alloy_steel_socket_head_screw",
+  "principal_moments_mm5": [
+    2942.861,
+    174974.643,
+    175754.408
+  ],
+  "raw_name": "91290A196_Alloy_Steel_Socket_Head_Screw",
+  "volume_mm3": 893.299
+}

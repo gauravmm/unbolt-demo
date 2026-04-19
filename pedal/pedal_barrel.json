@@ -12,11 +12,11 @@
     ]
   },
   "center_of_mass": [
-    78.5986,
-    60.0,
+    78.6327,
+    60.0083,
     -140.0
   ],
-  "edge_count": 4081,
+  "edge_count": 4108,
   "export_pose": {
     "origin_mm": [
       0.0,
@@ -39,14 +39,14 @@
       1.0
     ]
   },
-  "face_count": 2023,
-  "geometry_hash": "unbolt-v0:c8102bc7e70061e38aeedf0762c0625f009573a66222034b5289103900b49ae3",
+  "face_count": 2030,
+  "geometry_hash": "unbolt-v0:1e2e90e6c88bca725fba8222ab25fe2ef13a6f60539b8c3d8e3190d09220fe7d",
   "normalized_name": "pedal_barrel",
   "principal_moments_mm5": [
-    10728124.811,
-    74369898.382,
-    74369898.382
+    10719590.18,
+    74218502.827,
+    74226998.721
   ],
   "raw_name": "Pedal_Barrel",
-  "volume_mm3": 75226.867
+  "volume_mm3": 75180.962
 }

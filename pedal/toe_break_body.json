@@ -12,11 +12,11 @@
     ]
   },
   "center_of_mass": [
-    104.8843,
-    -43.9546,
-    -75.6568
+    105.275,
+    -43.8502,
+    -75.732
   ],
-  "edge_count": 155,
+  "edge_count": 195,
   "export_pose": {
     "origin_mm": [
       0.0,
@@ -39,14 +39,14 @@
       1.0
     ]
   },
-  "face_count": 62,
-  "geometry_hash": "unbolt-v0:23cab960efa06fdaf558ea6b89dece3cc40aba27bf0f8ad4a40e40fbe0d83de8",
+  "face_count": 80,
+  "geometry_hash": "unbolt-v0:3e513793979b1a9e1244351618df8b2ceed4fbdbf2cadfda6e55b89e4a8682aa",
   "normalized_name": "toe_break_body",
   "principal_moments_mm5": [
-    124478782.287,
-    376824211.98,
-    482182311.79
+    122477367.304,
+    374494027.054,
+    477881435.512
   ],
   "raw_name": "Toe_Break_Body",
-  "volume_mm3": 124442.162
+  "volume_mm3": 123800.78
 }

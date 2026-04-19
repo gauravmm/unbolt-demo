@@ -1,0 +1,52 @@
+{
+  "bounding_box": {
+    "max": [
+      147.0,
+      69.0,
+      -131.0
+    ],
+    "min": [
+      144.0,
+      51.0,
+      -149.0
+    ]
+  },
+  "center_of_mass": [
+    145.2235,
+    60.0,
+    -140.0
+  ],
+  "edge_count": 15,
+  "export_pose": {
+    "origin_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "x_axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "y_axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "z_axis": [
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "face_count": 9,
+  "geometry_hash": "unbolt-v0:b107e14021fd57e0c8c44195592b0c37c016584a7e555a17f77456a1d5f2d8df",
+  "normalized_name": "shaft_endcap",
+  "principal_moments_mm5": [
+    7242.154,
+    7242.154,
+    13903.617
+  ],
+  "raw_name": "Shaft_Endcap",
+  "volume_mm3": 400.716
+}

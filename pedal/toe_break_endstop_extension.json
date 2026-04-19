@@ -1,0 +1,52 @@
+{
+  "bounding_box": {
+    "max": [
+      13.0,
+      43.6765,
+      -141.1572
+    ],
+    "min": [
+      1.0,
+      20.6249,
+      -159.1878
+    ]
+  },
+  "center_of_mass": [
+    5.9145,
+    32.6267,
+    -151.5089
+  ],
+  "edge_count": 57,
+  "export_pose": {
+    "origin_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "x_axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "y_axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "z_axis": [
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "face_count": 24,
+  "geometry_hash": "unbolt-v0:7eb4d90dd75fb66529268661da0e0b6c08b686b871df909707ef9d11fff72435",
+  "normalized_name": "toe_break_endstop_extension",
+  "principal_moments_mm5": [
+    70090.462,
+    95798.719,
+    123795.237
+  ],
+  "raw_name": "Toe_Break_Endstop_Extension",
+  "volume_mm3": 2387.867
+}
