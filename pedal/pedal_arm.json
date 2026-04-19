@@ -13,10 +13,10 @@
   },
   "center_of_mass": [
     -2.5,
-    16.6208,
-    -74.7053
+    16.8962,
+    -75.9432
   ],
-  "edge_count": 81,
+  "edge_count": 96,
   "export_pose": {
     "origin_mm": [
       0.0,
@@ -39,14 +39,14 @@
       1.0
     ]
   },
-  "face_count": 29,
-  "geometry_hash": "unbolt-v0:d8a8563a0c8b385ed8a972c3cdfe44a790a46fa66b293a992d3adadfc92e25a1",
+  "face_count": 34,
+  "geometry_hash": "unbolt-v0:61406c138396876dcc5558e2ecbac3e1ad66f63a94c93db271cb131735e5086b",
   "normalized_name": "pedal_arm",
   "principal_moments_mm5": [
-    7664461.28,
-    107224349.399,
-    114736672.449
+    7561466.474,
+    103732030.723,
+    111143838.862
   ],
   "raw_name": "Pedal_Arm",
-  "volume_mm3": 36513.175
+  "volume_mm3": 35918.0
 }
