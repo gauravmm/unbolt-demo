@@ -1,0 +1,22 @@
+{
+  "image": "registry.gitlab.com/quality-and-data-management/unbolt/project:latest",
+  "customizations": {
+      "vscode": {
+          "extensions": [
+              "/opt/unbolt-distribution/unbolt-extension.vsix"
+          ]
+      }
+  },
+
+  "secrets": {
+    "GITLAB_CONTAINER_REGISTRY_SERVER": {
+      "description": "The registry server"
+    },
+    "GITLAB_CONTAINER_REGISTRY_USER": {
+      "description": "Your GitHub username"
+    },
+    "GITLAB_CONTAINER_REGISTRY_PASSWORD": {
+      "description": "A PAT with read:packages scope"
+    }
+  }
+}
